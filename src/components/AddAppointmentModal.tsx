@@ -215,8 +215,4 @@ export const AddAppointmentModal: React.FC<AddAppointmentModalProps> = ({
       </div>
     </AnimatePresence>
   );
-<<<<<<< HEAD
 };
-=======
-};
->>>>>>> c79080f203372c2e7185c4c4ecfbd748302a1912
